@@ -34,3 +34,4 @@ Po načtení inputu a zkontrolování všech potřebných věcí se spustí hlav
  Pokud v hlavní smyčce napíšete cokoli jiného program vám oznámí že příkaz neexistuje. Jedinné ukončení souboru je příkazem **exit**.
  Po ukončení smyčky se upravené 2D pole vpíše do námi na začátku specifikovaného souboru, program uvolní všechnu svou pamět a ukončí se.
 
+Pro spuštění programu a kompilaci použijte přiložený makefile.
